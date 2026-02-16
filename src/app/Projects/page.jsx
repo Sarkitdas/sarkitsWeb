@@ -32,7 +32,7 @@ const projects = [
     title: "Doctor-Appointment",
     category: "Web Development",
     description: "User-friendly platform for booking doctor appointments in real-time.",
-    tags: ["Html", "Java", "Mysql"],
+    tags: ["Html", "Php", "Mysql"],
     link: "#",
     github: "https://github.com/Sarkitdas/Doctor_Appointment",
     size: "small",
