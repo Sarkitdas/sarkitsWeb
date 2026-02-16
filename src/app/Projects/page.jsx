@@ -177,7 +177,7 @@ export default function ProjectsPage() {
                   {project.description}
                 </p>
 
-                <div className="flex items-center justify-between border-t border-white/5 pt-4 translate-y-2 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 delay-150">
+                <div className="flex items-center justify-between border-t border-white/5 pt-4 translate-y-2 opacity-100 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 delay-150">
                   <div className="flex gap-3">
                     {project.tags.slice(0, 3).map((tag, i) => (
                       <span key={i} className="text-[10px] text-white/40 font-mono hover:text-blue-400 transition-colors cursor-default">
