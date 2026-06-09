@@ -15,7 +15,7 @@ const educationData = [
   {
     degree: "Mastering on React and Next.js",
     institution: "Tech Academy",
-    duration: "2022 - 2023",
+    duration: "2025",
     location: "Ostad, Online",
     description: "Focused on modern JavaScript frameworks and cloud architecture.",
     skills: ["React", "Node.js", "Next.js", "TailwindCSS", "Figma", "MongoDB"]
